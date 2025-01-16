@@ -8,7 +8,7 @@
 
 ## My Work
 - 🚀 **Kitaabkhana**: A personal library platform to organize and share your books effortlessly [link](https://kitaabkhana.com/).
-- 🤖 **Resume Roast**: A fun web app that provides Reddit-style roasts of your resume [link](https://resume-roast-ukhi.onrender.co)m/).
+- 🤖 **Resume Roast**: A fun web app that provides Reddit-style roasts of your resume [link](https://resume-roast-ukhi.onrender.com).
 - 📚 **Blogs**:
   1. [Kitaabkhana: Your Personal Library](https://medium.com/@mayanksharma_68675/kitaabkhana-your-personal-library-396cbccf01d8)
   2. [Text-to-Notebook Converter](https://medium.com/@mayanksharma_68675/text-to-notebook-converter-9e395dec1836)
