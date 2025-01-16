@@ -8,12 +8,12 @@
 
 ## My Work
 - 🚀 **Kitaabkhana**: A personal library platform to organize and share your books effortlessly [link](https://kitaabkhana.com/).
-- 🤖 **Resume Roast**: A fun web app that provides Reddit-style roasts of your resume [link](https://resume-roast-ukhi.onrender.com/).
+- 🤖 **Resume Roast**: A fun web app that provides Reddit-style roasts of your resume [link](https://resume-roast-ukhi.onrender.co)m/).
 - 📚 **Blogs**:
   1. [Kitaabkhana: Your Personal Library](https://medium.com/@mayanksharma_68675/kitaabkhana-your-personal-library-396cbccf01d8)
   2. [Text-to-Notebook Converter](https://medium.com/@mayanksharma_68675/text-to-notebook-converter-9e395dec1836)
 
 ## Contact Me
 - 📫 **Email**: [mayank.workattech@gmail.com](mayank.workattech@gmail.com)
-- 💼 **LinkedIn**: [Mayank Sharma]([https://www.linkedin.com/in/mayanksharma](https://www.linkedin.com/in/mayank-sharma-82ba20143/))
+- 💼 **LinkedIn**: [Mayank Sharma](https://www.linkedin.com/in/mayank-sharma-82ba20143/)
 - 🌐 **Portfolio**: [mayank-intro.onrender.com](https://mayank-intro.onrender.com/)
