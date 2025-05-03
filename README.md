@@ -1,12 +1,12 @@
 # Mayank Sharma
 
-**Senior Tech Architect | Backend Systems Engineer | Podcast Host & Researcher**
+**Backend Systems Engineer | Podcast Host & Researcher**
 
 ---
 
 ## Professional Summary
 
-Mayank Sharma is a seasoned Senior Software Engineer and aspiring Tech Architect with a strong foundation in Python, C++, and .NET technologies. With over 3 years of professional experience at Intel India and Dunnhumby (Tesco Media), Mayank has demonstrated excellence in designing and implementing scalable backend systems, real-time data streaming services, and interactive web applications. An innovative thinker and meticulous problem-solver, he continually pushes the boundaries of technology through open-source contributions, thought leadership in research, and a highly technical podcast series.
+Mayank Sharma is a seasoned Senior Software Engineer with a strong foundation in Python, C++, and .NET technologies. With over 3 years of professional experience at Intel India and Dunnhumby (Tesco Media), Mayank has demonstrated excellence in designing and implementing scalable backend systems, real-time data streaming services, and interactive web applications. An innovative thinker and meticulous problem-solver, he continually pushes the boundaries of technology through open-source contributions, thought leadership in research, and a highly technical podcast series.
 
 ---
 
