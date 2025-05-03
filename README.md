@@ -1,114 +1,106 @@
 # Mayank Sharma
 
-**Backend Systems Engineer | Podcast Host & Researcher**
+## 👋 Hi, I'm Mayank
+I'm a software engineer with experience at Intel and Tesco Media (Dunnhumby), specializing in backend systems, scalable infrastructure, and innovative tooling. I build things that blend creativity with technical depth — from real-time engines to open-source platforms and podcasts.
+
+[📄 View Resume](#)
 
 ---
 
-## Professional Summary
+## 🔧 Projects
 
-Mayank Sharma is a seasoned Senior Software Engineer with a strong foundation in Python, C++, and .NET technologies. With over 3 years of professional experience at Intel India and Dunnhumby (Tesco Media), Mayank has demonstrated excellence in designing and implementing scalable backend systems, real-time data streaming services, and interactive web applications. An innovative thinker and meticulous problem-solver, he continually pushes the boundaries of technology through open-source contributions, thought leadership in research, and a highly technical podcast series.
+### 📚 Kitaabkhana – Your Personal Library
+A platform to manage, share, and discover books.
+- Upload & manage your library.
+- Private & secure access.
+- Accessible on all devices.
+- **Tech Stack:** Python, Flask, Supabase, Tailwind, Render
+[🔍 Learn More](#)
 
----
+### 📓 Notebook Converter
+Convert plain text or Markdown into interactive Jupyter notebooks.
+- Upload → Convert → Download.
+- Modular, cloud-enabled NLP processing.
+- **Tech Stack:** Flask, nbformat, Google Gemini API, Tailwind
 
-## Core Competencies
+### 🎙 Roast My Resume (MVP)
+A humorous AI-based resume critique engine.
+- Upload your resume and get Reddit-style roast.
+- **Tech Stack:** Python, NLP, Gemini API
 
-- **Backend & Distributed Systems:** Flask, Django, FastAPI, .NET Core, Redis, Databricks, Kafka, real-time streaming architectures
-- **Frontend & Interactive Platforms:** React, xterm.js, Tailwind CSS, responsive design, SVG-based interfaces
-- **Machine Learning & Computer Vision:** Object detection, model evaluation, deployment pipelines
-- **Cloud & Infrastructure:** Google Cloud Platform, CI/CD (Jenkins, GitHub Actions), Docker, Kubernetes
-- **Data Engineering & Analytics:** Pandas, NumPy, SQL, Spark, data pipeline optimization
-- **DevOps & Automation:** Jenkins pipelines, Azure DevOps, infrastructure as code
-- **Technical Leadership:** Architectural design, code reviews, mentoring, technical strategy
+### 🧭 Treasure Hunt Map Web App
+Interactive SVG-based college map for mobile and desktop.
 
----
+### 📻 FM Streaming App
+Lightweight browser-based FM-like streaming experience.
 
-## Signature Projects
+### 🏢 Corporate Job Portal
+Exclusive sign-up for professionals with corporate email IDs.
 
-### 1. Interactive CLI‑Style Portfolio Web App
-- Developed a terminal‑inspired frontend using xterm.js, HTML5, and Tailwind CSS.
-- Implemented a dynamic file‑system structure for seamless `cat`‑driven navigation of resume, projects, and experience.
-- Ensured cross‑device responsiveness and an industry‑standard, polished user interface.
-
-### 2. Treasure Hunt Map Web Application
-- Converted a custom college campus drawing into an interactive SVG with pans, zooms, and clickable POIs.
-- Integrated mobile‑friendly touch gestures to support panning and navigation on smartphones.
-
-### 3. Aesthetic Snapchat Video Gallery
-- Architected a vertical, scrollable UI for displaying media cards using minimal CSS and a cohesive color palette.
-- Automated ingestion of assets from Google Photos for effortless content updates.
-
-### 4. Text‑to‑Notebook Converter
-- Engineered a Flask‑based service that transforms plain text files into fully rendered Jupyter Notebooks.
-- Added user feedback overlays and styling to enhance the conversion workflow.
-
-### 5. Kitaabkhana: Personal Library Platform
-- Conceived and built a scalable web application to catalog and share digital/physical book collections.
-- Implemented bulk email dispatch to users from Excel lists; integrated domain `kitaabkhana.com`.
-
-### 6. Roast My Resume Web App (MVP)
-- Created an experimental frontend integrated with Google Gemini to humorously critique uploaded resumes.
-- Processed both PDF and DOC formats with NLP pipelines to extract and analyze educational and work history.
-
-### 7. Supply Chain Optimization on Databricks
-- Designed a demand forecasting model for a multi‑yard Mercedes dealership network.
-- Built FastAPI endpoints to recommend stock redistribution, minimizing external purchasing.
-
-### 8. FM Streaming Web Application
-- Developed a lightweight, browser‑based audio streaming service mirroring in‑car FM experiences.
-- Prioritized accessibility and minimal dependencies.
-
-### 9. Corporate Job Portal
-- Architected a secure sign‑up flow restricted to corporate email domains for white‑collar professionals.
+### 🚗 Stock Optimization System
+Databricks-powered solution for demand forecasting and redistribution across stockyards.
 
 ---
 
-## Podcast & Media
+## 💼 Experience
 
-### The Nerd Show
-Hosted alongside Ananay Batra (Founder, Listnr.ai), _The Nerd Show_ is a highly technical podcast exploring advanced topics in science, world affairs, and entrepreneurship. The format mirrors Lex Fridman’s depth, featuring in‑depth interviews with tech founders, CTOs, and visionary entrepreneurs.
+### Tesco Media (Dunnhumby)
+**Engineer** — Nov 2024 – Present
+- Architected data processing pipelines with Apache Beam on GCP.
+- Built KPI engines with BigQuery materialized views.
+- **Tech Stack:** Python, .NET Core, GCP, Apache Beam, SpiceDB
 
-### Special Series
-- **Conversation with Ashish Gupta**, CTO of Progcap
-- **Emerging Trends in Real‑Time Systems** (upcoming)
+### Intel Corporation
+**Software Engineer** — Jul 2024 – Nov 2024
+- Developed Edge Orchestrator platform.
+- Integrated Kubernetes-native diagnostics using K8sGPT.
+- **Tech Stack:** Golang, Docker, Kubernetes, RPC, Grafana
+
+### Progcap
+**Software Engineer** — Aug 2022 – Jul 2024
+- Built backend for e-commerce and improved invoice parser accuracy with GPT-4o.
+- Created a centralized notification system.
+- **Tech Stack:** Python, PostgreSQL, Redis, GPT-4o
 
 ---
 
-## Research Publications
+## 📝 Articles
+
+- **Kitaabkhana - System Design**  
+- **Text-to-Notebook Converter: Whitepaper**  
+- **The Frappe Framework**  
+- **Understanding Design Patterns**  
+- **Engineering Behind Roast My Resume**  
+- **Engineering Depths of Edge Computing**  
+
+[📰 View Articles](#)
+
+---
+
+## 📄 Whitepapers
 
 1. **Canonical Service: Streaming Data in Real Time**  
-   _Mayank Sharma_  
-   Tesco Media, Dunnhumby  
-   [View Paper]
+   _Mayank Sharma – Tesco Media, Dunnhumby_
 
-2. **An Empirical Analysis of Different Object Detection Algorithms for Face Recognition**  
-   _Mayank Sharma, Dr. Kimmi Verma_  
-   IEEE  
-   [View Paper]
+2. **Object Detection Algorithms for Face Recognition**  
+   _Mayank Sharma, Dr. Kimmi Verma – IEEE_
+
+[📚 View Papers](#)
 
 ---
 
-## Education & Certifications
+## 🎙 Podcasts — The Nerd Show
+A deep-dive podcast into tech, science, and entrepreneurship.
 
-- **Bachelor of Engineering (Computer Science)**  
-  [Your University, Year]
+- Co-hosted with Ananay Batra (Founder, Listnr.ai)
+- Notable Guests: Ashish Gupta (CTO, Progcap)
+- Style: Highly technical, in the spirit of Lex Fridman
 
-- **Certifications:**  
-  - Databricks Certified Associate Developer  
-  - Microsoft Certified: Azure Fundamentals
-
----
-
-## Publications & Blogging
-
-- **Medium Articles:**  
-  - "Kitaabkhana: Your Personal Library"  
-  - "Text-to-Notebook Converter"
+[🎧 Listen Now](#)
 
 ---
 
-## Contact & Social Links
+## 🔗 Let's Connect
+[LinkedIn](#) • [GitHub](#) • [Email](#)
 
-- **Email:** mayank.sharma@example.com  
-- **LinkedIn:** linkedin.com/in/mayank-sharma  
-- **GitHub:** github.com/mayank-sharma  
-- **Podcast:** linktr.ee/the_nerd_show
+© 2024 Mayank Sharma. All rights reserved.
