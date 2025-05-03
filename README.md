@@ -5,42 +5,6 @@ I'm a software engineer with experience at Intel and Tesco Media (Dunnhumby), sp
 
 [📄 View Resume](#)
 
----
-
-## 🔧 Projects
-
-### 📚 Kitaabkhana – Your Personal Library
-A platform to manage, share, and discover books.
-- Upload & manage your library.
-- Private & secure access.
-- Accessible on all devices.
-- **Tech Stack:** Python, Flask, Supabase, Tailwind, Render
-[🔍 Learn More](#)
-
-### 📓 Notebook Converter
-Convert plain text or Markdown into interactive Jupyter notebooks.
-- Upload → Convert → Download.
-- Modular, cloud-enabled NLP processing.
-- **Tech Stack:** Flask, nbformat, Google Gemini API, Tailwind
-
-### 🎙 Roast My Resume (MVP)
-A humorous AI-based resume critique engine.
-- Upload your resume and get Reddit-style roast.
-- **Tech Stack:** Python, NLP, Gemini API
-
-### 🧭 Treasure Hunt Map Web App
-Interactive SVG-based college map for mobile and desktop.
-
-### 📻 FM Streaming App
-Lightweight browser-based FM-like streaming experience.
-
-### 🏢 Corporate Job Portal
-Exclusive sign-up for professionals with corporate email IDs.
-
-### 🚗 Stock Optimization System
-Databricks-powered solution for demand forecasting and redistribution across stockyards.
-
----
 
 ## 💼 Experience
 
